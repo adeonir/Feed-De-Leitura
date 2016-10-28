@@ -46,3 +46,4 @@ Uma lista com os sites e blogs que acompanho quase diariamente ou conforme a dis
 - [UX Movement](http://uxmovement.com/)
 - [UXDesign](https://uxdesign.cc/)
 - [Web Design Ledger](https://webdesignledger.com/)
+- [Web Design Weekly](https://web-design-weekly.com/)
